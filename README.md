@@ -1,49 +1,59 @@
 # 👋 Hi, I'm Cyrine Chalghoumi
 
 🎓 **Cybersecurity Engineering Student** at *Esprit University*  
-🔐 Passionate about **cyber defense, threat intelligence, and ethical hacking**  
-🌏 Currently exploring **machine learning for predictive cybersecurity threats**
+🔐 Passionate about  **cybersecurity, AI, and machine learning applied to security**  
+📅 Seeking a **final-year internship** starting December 2025  
 
 ---
 
 ## 🧠 About Me
 - 💻 I specialize in **cybersecurity engineering** — blending technical defense with data analysis.  
-- 🔍 Experienced with tools like **Kali Linux, Wireshark, Metasploit, Burp Suite, and Fortinet Security Fabric**.  
 - ⚙️ I enjoy working on **vulnerability testing, network monitoring, and secure system design**.  
 - 🌐 I also studied **Chinese language and culture** 🇨🇳 for global tech collaboration.  
 
 ---
 
-## 🚀 Current Projects
-- 🧩 **Predictive Cybersecurity Threats** – ML-based anomaly detection in smart grids  
-- 💣 **VM-to-Host Attack Simulation** – testing isolation breaches in virtualized environments  
-- 🕵️ **WebGoat Pentesting** – SQL injection and cryptographic failure exploration  
+## 💼 Experience
+- **Blockchain & Smart Grid (ESPRIT)** – Data preparation/analysis and ML on blockchain  
+- **Cyber Threat Prediction (Pwn&Patch)** – Proactive threat analysis using AI  
+- **La Poste Tunisienne** – Collaborative platform development using Angular, Spring Boot, MySQL  
+- **TOPNET (Fortinet Project)** – FortiGate configuration for a telecom environment  
+- **Tunisie Telecom** – Network equipment maintenance and on-site interventions  
 
 ---
 
-## 🛠 Tech Stack & Tools
-| Category | Tools |
-|-----------|-------|
-| **Languages** | Python, Bash, Java, SQL |
-| **Security** | Kali Linux, Burp Suite, Metasploit, Wireshark, FortiGate |
-| **Machine Learning** | Scikit-learn, PyTorch |
-| **Cloud & DevOps** | Docker, Git, Linux |
-| **Other** | Splunk, Any.Run, Wireshark, OWASP ZAP |
+## 🛠 Skills
+
+| Category | Skills |
+|----------|--------|
+| **Programming Languages** | Python, C/C++, Java, PHP, SQL, HTML, Symfony, Spring Boot |
+| **Systems & Virtualization** | Linux (Ubuntu, Kali, Security Onion), Docker, VMware, VirtualBox |
+| **Cybersecurity & Networking** | Firewalls, SIEM, SOAR, EDR, NDR, Monitoring, Honeynet |
+| **AI & Machine Learning** | LSTM, NLP, KNN, SVM, Random Forest, T5, GPT, LLM |
+| **Languages** | Arabic (native), French B2, English B2, Mandarin A2, Spanish A1 |
 
 ---
 
-## 🧑‍💼 Certifications
-- 🏅 **Fortinet Certified Associate in Cybersecurity (FCA)** *(Valid until 2027)*  
-- 🎓 **ISO 27001 & 27005 Training (in progress)**  
-- 🧾 **Introduction to Threat Intelligence** *(Coursera)*  
+## 🎓 Key Projects
+- **Automated SOC** – SIEM/SOAR integration, incident response, ISO 27001/GDPR/PCI DSS compliance  
+- **Virtualized Infrastructure** – Windows/Ubuntu/FreeNAS, VPN, VLAN, network monitoring  
+- **PIDEV Web** – Sports hall management, CRUD, Agile/Scrum  
+- **SmartADHD (QT/Arduino)** – ADHD center management, Arduino prototype  
+- **Restaurant Web App** – Dynamic website with APIs and business logic  
+- **EGAHTAC (C/Arduino)** – Educational COVID-19 game  
 
 ---
 
-## 📫 Connect With Me
-🌐 [LinkedIn](https://www.linkedin.com/in/your-link)  
-📧 **cyrine.chalghoumi@example.com**  
-🐙 [GitHub Projects](https://github.com/cyrine-chalghoumi)
+## 🎖 Certifications
+- **Fortinet Certified Associate in Cybersecurity (FCA)** – 10/2025  
+- **Fundamentals of AI (Cisco & IBM Skills)** – 09/2025  
+- **Python Coding (GoMyCode)** – 10/2021 – 01/2022  
 
 ---
+
+## 🌐 Contact
+- 📧 cyrine.chalghoumi@esprit.tn  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/votre-profil)
+
 
 ⭐ *"The best defense is understanding the offense."*
