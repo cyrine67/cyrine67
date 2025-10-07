@@ -27,7 +27,7 @@
 | Category | Skills |
 |----------|--------|
 | **Programming Languages** | Python, C/C++, Java, PHP, SQL, HTML, Symfony, Spring Boot |
-| **Systems & Virtualization** | Linux (Ubuntu, Kali, Security Onion), Docker, VMware, VirtualBox |
+| **Systems & Virtualization** | Linux (Ubuntu, Kali, Security Onion), 🐳Docker, VMware, VirtualBox |
 | **Cybersecurity & Networking** | Firewalls, SIEM, SOAR, EDR, NDR, Monitoring, Honeynet |
 | **AI & Machine Learning** | LSTM, NLP, KNN, SVM, Random Forest, T5, GPT, LLM |
 | **Languages** | Arabic (native), French B2, English B2, Mandarin A2, Spanish A1 |
