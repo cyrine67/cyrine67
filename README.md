@@ -53,7 +53,7 @@
 
 ## 🌐 Contact
 - 📧 cyrine.chalghoumi@esprit.tn  
-- 🌐 [LinkedIn][(https://www.linkedin.com/in/votre-profil)](https://www.linkedin.com/in/cyrine-chalghoumi-700644275/)
+- 🌐 [LinkedIn][([https://www.linkedin.com/in/votre-profil](https://www.linkedin.com/in/cyrine-chalghoumi-700644275/))](https://www.linkedin.com/in/cyrine-chalghoumi-700644275/)
 
 
 ⭐ *"The best defense is understanding the offense."*
